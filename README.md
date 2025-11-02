@@ -345,26 +345,4 @@ We welcome contributions! Please follow these steps:
 - [ ] Add notification system
 - [ ] Implement data persistence
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Icons provided by [Lucide React](https://lucide.dev/)
-- Inspired by modern sustainability initiatives
-- Built with ❤️ for a greener future
-
-## 📞 Support
-
-For support, email support@neogreen.com or open an issue on GitHub.
-
----
-
-**Made with 🌍 for environmental sustainability**
-
-⭐ **Star this repo if you found it helpful!** ⭐
